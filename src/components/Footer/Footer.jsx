@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
             <img src={assets.logo} alt="" />
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse numquam voluptates nulla quibusdam soluta animi pariatur tenetur incidunt recusandae non.</p>
+            <p>Enjoy the flavors of convenience with Ahaar. Delight in every bite delivered right to your door. Discover more delicious moments at Ahaar - your ultimate culinary companion.</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
@@ -26,13 +26,13 @@ const Footer = () => {
         <div className="footer-content-right">
             <h2>Get in Touch</h2>
             <ul>
-              <li>+91 123456789</li>
+              <li>+91 7489029991</li>
               <li>contact@ahaar.com</li>
             </ul>
         </div>
       </div>
       <hr />
-      <p className='footer-copyright'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro, maiores?</p>
+      <p className='footer-copyright'>Ahaar™ , All Rights Reserved.</p>
     </div>
   )
 }

@@ -36,7 +36,6 @@
 }
 .header-contents button:hover {
     cursor: pointer;
-    border: 2px white;
     color: #000000;
     border-radius: 50px;
     font-weight: 500;

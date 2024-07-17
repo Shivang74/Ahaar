@@ -27,21 +27,18 @@
 }
 .header-contents button {
     border: none;
+    cursor: pointer;
     color: #747474;
     border-radius: 50px;
     font-weight: 500;
     padding: 1vw 2.3vw;
     background-color: white;
     font-size: max(1vw,13px);
+    transition: .3s;
 }
 .header-contents button:hover {
-    cursor: pointer;
-    color: #000000;
-    border-radius: 50px;
-    font-weight: 500;
-    padding: 1vw 2.3vw;
-    background-color: transparent;
-    font-size: max(1vw,13px);
+    background-color: tomato;
+    color: black;
 }
 @media (max-width: 1050px) {
     

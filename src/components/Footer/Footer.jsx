@@ -24,10 +24,11 @@ const Footer = () => {
           </ul>
         </div>
         <div className="footer-content-right">
-            <h2>Get in Touch</h2>
+            <h2>Get in Touch with the Developer</h2>
             <ul>
               <li>+91 7489029991</li>
-              <li>contact@ahaar.com</li>
+              <li>shivangshrivastava999@gmail.com</li>
+              <li>https://portfolio-11234.vercel.app/</li>
             </ul>
         </div>
       </div>

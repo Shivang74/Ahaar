@@ -27,7 +27,7 @@ const LoginPopup = ({setShowLogin}) => {
             
             
         </form>
-      Jai Ma Chandika!
+      Chandika!
     </div>
   )
 }

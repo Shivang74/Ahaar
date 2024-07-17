@@ -37,7 +37,8 @@
     transition: .3s;
 }
 .header-contents button:hover {
-    background-color: tomato;
+    background-color: transparent;
+    border: 1px black
     color: black;
 }
 @media (max-width: 1050px) {

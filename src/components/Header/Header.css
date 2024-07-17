@@ -35,7 +35,8 @@
     font-size: max(1vw,13px);
 }
 .header-contents button:hover {
-    border: none;
+    cursor: pointer;
+    border: 1px;
     color: #000000;
     border-radius: 50px;
     border-color: white;
